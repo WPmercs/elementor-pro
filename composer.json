@@ -1,0 +1,16 @@
+{
+    "name": "wpmercs/elementor-pro",
+    "description": "Mercenary Elementor Pro Plugin Mirror compatible with Composer",
+    "keywords": ["premium", "mirror", "mercenary", "merc", "wpmercs", "wordpress", "plugin"],
+    "homepage": "https://github.com/wpmercs/elementor-pro",
+    "authors": [
+      {
+        "name": "WPmercs",
+        "homepage": "https://wpmercs.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
